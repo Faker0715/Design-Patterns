@@ -1,0 +1,3 @@
+C:/Users/gq/Downloads/DesignPatterns-master/Strategy/build/CMakeFiles/strategy.dir
+C:/Users/gq/Downloads/DesignPatterns-master/Strategy/build/CMakeFiles/edit_cache.dir
+C:/Users/gq/Downloads/DesignPatterns-master/Strategy/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+﻿cmake_minimum_required(VERSION 3.22.0)
+add_executable(proxy)
+target_sources(proxy
+PRIVATE
+#INTERFACE PUBLIC
+    ${CMAKE_CURRENT_SOURCE_DIR}/main.cpp
+)

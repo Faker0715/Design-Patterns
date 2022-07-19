@@ -1,0 +1,102 @@
+[
+{
+  "directory": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/build/samples/Observer",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=c++14 -g -Wall -pthread -m64 -o CMakeFiles\\observer.dir\\main.cpp.obj -c C:\\Users\\gq\\Desktop\\Faker\\DesiginPatterns-Faker\\samples\\Observer\\main.cpp",
+  "file": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/samples/Observer/main.cpp"
+},
+{
+  "directory": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/build/samples/Strategy",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=c++14 -g -Wall -pthread -m64 -o CMakeFiles\\strategy.dir\\main.cpp.obj -c C:\\Users\\gq\\Desktop\\Faker\\DesiginPatterns-Faker\\samples\\Strategy\\main.cpp",
+  "file": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/samples/Strategy/main.cpp"
+},
+{
+  "directory": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/build/samples/TemplateMethod",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=c++14 -g -Wall -pthread -m64 -o CMakeFiles\\template_method.dir\\main.cpp.obj -c C:\\Users\\gq\\Desktop\\Faker\\DesiginPatterns-Faker\\samples\\TemplateMethod\\main.cpp",
+  "file": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/samples/TemplateMethod/main.cpp"
+},
+{
+  "directory": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/build/samples/Decorator",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=c++14 -g -Wall -pthread -m64 -o CMakeFiles\\decorator.dir\\main.cpp.obj -c C:\\Users\\gq\\Desktop\\Faker\\DesiginPatterns-Faker\\samples\\Decorator\\main.cpp",
+  "file": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/samples/Decorator/main.cpp"
+},
+{
+  "directory": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/build/samples/Bridge",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=c++14 -g -Wall -pthread -m64 -o CMakeFiles\\bridge.dir\\main.cpp.obj -c C:\\Users\\gq\\Desktop\\Faker\\DesiginPatterns-Faker\\samples\\Bridge\\main.cpp",
+  "file": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/samples/Bridge/main.cpp"
+},
+{
+  "directory": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/build/samples/FactoryMethod",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=c++14 -g -Wall -pthread -m64 -o CMakeFiles\\factorymethod.dir\\main.cpp.obj -c C:\\Users\\gq\\Desktop\\Faker\\DesiginPatterns-Faker\\samples\\FactoryMethod\\main.cpp",
+  "file": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/samples/FactoryMethod/main.cpp"
+},
+{
+  "directory": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/build/samples/AbstractFactory",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=c++14 -g -Wall -pthread -m64 -o CMakeFiles\\abstractfactory.dir\\main.cpp.obj -c C:\\Users\\gq\\Desktop\\Faker\\DesiginPatterns-Faker\\samples\\AbstractFactory\\main.cpp",
+  "file": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/samples/AbstractFactory/main.cpp"
+},
+{
+  "directory": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/build/samples/Singleton",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=c++14 -g -Wall -pthread -m64   -std=c++11 -o CMakeFiles\\singleton.dir\\main.cpp.obj -c C:\\Users\\gq\\Desktop\\Faker\\DesiginPatterns-Faker\\samples\\Singleton\\main.cpp",
+  "file": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/samples/Singleton/main.cpp"
+},
+{
+  "directory": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/build/samples/Builder",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=c++14 -g -Wall -pthread -m64 -o CMakeFiles\\builder.dir\\main.cpp.obj -c C:\\Users\\gq\\Desktop\\Faker\\DesiginPatterns-Faker\\samples\\Builder\\main.cpp",
+  "file": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/samples/Builder/main.cpp"
+},
+{
+  "directory": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/build/samples/Flyweight",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=c++14 -g -Wall -pthread -m64 -o CMakeFiles\\flyweight.dir\\main.cpp.obj -c C:\\Users\\gq\\Desktop\\Faker\\DesiginPatterns-Faker\\samples\\Flyweight\\main.cpp",
+  "file": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/samples/Flyweight/main.cpp"
+},
+{
+  "directory": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/build/samples/Prototype",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=c++14 -g -Wall -pthread -m64 -o CMakeFiles\\prototype.dir\\main.cpp.obj -c C:\\Users\\gq\\Desktop\\Faker\\DesiginPatterns-Faker\\samples\\Prototype\\main.cpp",
+  "file": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/samples/Prototype/main.cpp"
+},
+{
+  "directory": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/build/samples/Proxy",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=c++14 -g -Wall -pthread -m64 -o CMakeFiles\\proxy.dir\\main.cpp.obj -c C:\\Users\\gq\\Desktop\\Faker\\DesiginPatterns-Faker\\samples\\Proxy\\main.cpp",
+  "file": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/samples/Proxy/main.cpp"
+},
+{
+  "directory": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/build/samples/Adapter",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=c++14 -g -Wall -pthread -m64 -o CMakeFiles\\adapter.dir\\main.cpp.obj -c C:\\Users\\gq\\Desktop\\Faker\\DesiginPatterns-Faker\\samples\\Adapter\\main.cpp",
+  "file": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/samples/Adapter/main.cpp"
+},
+{
+  "directory": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/build/samples/State",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=c++14 -g -Wall -pthread -m64 -o CMakeFiles\\state.dir\\main.cpp.obj -c C:\\Users\\gq\\Desktop\\Faker\\DesiginPatterns-Faker\\samples\\State\\main.cpp",
+  "file": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/samples/State/main.cpp"
+},
+{
+  "directory": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/build/samples/Visitor",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=c++14 -g -Wall -pthread -m64 -o CMakeFiles\\visitor.dir\\main.cpp.obj -c C:\\Users\\gq\\Desktop\\Faker\\DesiginPatterns-Faker\\samples\\Visitor\\main.cpp",
+  "file": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/samples/Visitor/main.cpp"
+},
+{
+  "directory": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/build/samples/Interpreter",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=c++14 -g -Wall -pthread -m64 -o CMakeFiles\\interpreter.dir\\main.cpp.obj -c C:\\Users\\gq\\Desktop\\Faker\\DesiginPatterns-Faker\\samples\\Interpreter\\main.cpp",
+  "file": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/samples/Interpreter/main.cpp"
+},
+{
+  "directory": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/build/samples/Memento",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=c++14 -g -Wall -pthread -m64 -o CMakeFiles\\memento.dir\\main.cpp.obj -c C:\\Users\\gq\\Desktop\\Faker\\DesiginPatterns-Faker\\samples\\Memento\\main.cpp",
+  "file": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/samples/Memento/main.cpp"
+},
+{
+  "directory": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/build/samples/Command",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=c++14 -g -Wall -pthread -m64 -o CMakeFiles\\command.dir\\main.cpp.obj -c C:\\Users\\gq\\Desktop\\Faker\\DesiginPatterns-Faker\\samples\\Command\\main.cpp",
+  "file": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/samples/Command/main.cpp"
+},
+{
+  "directory": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/build/samples/ChainOfResponsibility",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=c++14 -g -Wall -pthread -m64 -o CMakeFiles\\chainOfResponsibility.dir\\main.cpp.obj -c C:\\Users\\gq\\Desktop\\Faker\\DesiginPatterns-Faker\\samples\\ChainOfResponsibility\\main.cpp",
+  "file": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/samples/ChainOfResponsibility/main.cpp"
+},
+{
+  "directory": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/build/samples/Iterator",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=c++14 -g -Wall -pthread -m64 -o CMakeFiles\\iterator.dir\\main.cpp.obj -c C:\\Users\\gq\\Desktop\\Faker\\DesiginPatterns-Faker\\samples\\Iterator\\main.cpp",
+  "file": "C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/samples/Iterator/main.cpp"
+}
+]

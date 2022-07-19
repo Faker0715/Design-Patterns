@@ -1,0 +1,8 @@
+﻿cmake_minimum_required(VERSION 3.22.0)
+add_definitions(-std=c++11)
+add_executable(singleton)
+target_sources(singleton
+PRIVATE
+#INTERFACE PUBLIC
+    ${CMAKE_CURRENT_SOURCE_DIR}/main.cpp
+)

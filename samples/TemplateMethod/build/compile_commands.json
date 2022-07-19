@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/gq/Downloads/DesignPatterns-master/TemplateMethod/build",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=c++14 -g -Wall -pthread -m64 -o CMakeFiles\\template_method.dir\\main.cpp.obj -c C:\\Users\\gq\\Downloads\\DesignPatterns-master\\TemplateMethod\\main.cpp",
+  "file": "C:/Users/gq/Downloads/DesignPatterns-master/TemplateMethod/main.cpp"
+}
+]

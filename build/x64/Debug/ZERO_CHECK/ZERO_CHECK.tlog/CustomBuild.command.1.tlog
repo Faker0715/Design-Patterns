@@ -1,0 +1,10 @@
+^C:\USERS\GQ\DESKTOP\FAKER\DESIGINPATTERNS-FAKER\BUILD\CMAKEFILES\21F882E329147DF1EB3CBCD8E438E565\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/gq/Desktop/Faker/DesiginPatterns-Faker -BC:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/gq/Desktop/Faker/DesiginPatterns-Faker/build/DESIGN_PATTERNS.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

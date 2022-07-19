@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\gq\Desktop\Faker\DesiginPatterns-Faker\samples\State\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\gq\Desktop\Faker\DesiginPatterns-Faker\samples\State\cmakelists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8AEFA77E-936E-3A25-A914-3017021C8EFA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
